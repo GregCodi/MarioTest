@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 4ae7983532ee30e4e8ed50282ad5995f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3467967440574267961
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_0
+  - first:
+      213: -4493411208743279616
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_1
+  - first:
+      213: -2391070364453790096
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_2
+  - first:
+      213: -8019228252691586990
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_3
+  - first:
+      213: -5275080431568371666
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_4
+  - first:
+      213: 1966364049002572646
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_5
+  - first:
+      213: 2327331893500477361
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_6
+  - first:
+      213: -9115023500847728354
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_7
+  - first:
+      213: 7532572289293181259
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_8
+  - first:
+      213: 593364921255212533
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_9
+  - first:
+      213: -588361637337526249
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_10
+  - first:
+      213: 1690815292658787626
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_11
+  - first:
+      213: -8017911116809683153
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_12
+  - first:
+      213: 2558784688585805766
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_13
+  - first:
+      213: 4604154025118710392
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_14
+  - first:
+      213: -4523733109562558214
+    second: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 592
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cc0c5302b02030800000000000000
+      internalID: 3467967440574267961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 592
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0042911105234a1c0800000000000000
+      internalID: -4493411208743279616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 592
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e94c50c2631ded0800000000000000
+      internalID: -2391070364453790096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 592
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250aa81546af5b090800000000000000
+      internalID: -8019228252691586990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 168
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c0cacb462bc6b0800000000000000
+      internalID: -5275080431568371666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba5ef2fade94b10800000000000000
+      internalID: 1966364049002572646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7882c6085c4020800000000000000
+      internalID: 2327331893500477361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 384
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1932a06b6ee08180800000000000000
+      internalID: -9115023500847728354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41654c7692198860800000000000000
+      internalID: 7532572289293181259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 176
+        width: 160
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53899804e0c3800800000000000000
+      internalID: 593364921255212533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 176
+        width: 168
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71097074538b5d7f0800000000000000
+      internalID: -588361637337526249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 176
+        width: 168
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a9b3ec8bf67710800000000000000
+      internalID: 1690815292658787626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f37e9e158aab090800000000000000
+      internalID: -8017911116809683153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 160
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8dd30e11a28320800000000000000
+      internalID: 2558784688585805766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8
+        width: 152
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ab26621bd35ef30800000000000000
+      internalID: 4604154025118710392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 176
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b9d164b87831c0800000000000000
+      internalID: -4523733109562558214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_9: 593364921255212533
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_7: -9115023500847728354
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_12: -8017911116809683153
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_2: -2391070364453790096
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_1: -4493411208743279616
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_14: 4604154025118710392
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_13: 2558784688585805766
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_6: 2327331893500477361
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_4: -5275080431568371666
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_3: -8019228252691586990
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_0: 3467967440574267961
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_10: -588361637337526249
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_15: -4523733109562558214
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_8: 7532572289293181259
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_5: 1966364049002572646
+      among_us_simple_sprites__free_use_give_credit__by_elbertotoosiosi_def8f2y_11: 1690815292658787626
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
